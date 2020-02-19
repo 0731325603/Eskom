@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
 
 # Function for data metrics
 def dictionary_of_metrics(items):
